@@ -1,0 +1,47 @@
+{
+    "Reinforcement Learning": {
+        "checkpoints": [
+            {
+                "steps": 499998,
+                "file_path": "results\\RLv1\\Reinforcement Learning\\Reinforcement Learning-499998.onnx",
+                "reward": null,
+                "creation_time": 1650657107.72841,
+                "auxillary_file_paths": [
+                    "results\\RLv1\\Reinforcement Learning\\Reinforcement Learning-499998.pt"
+                ]
+            },
+            {
+                "steps": 999997,
+                "file_path": "results\\RLv1\\Reinforcement Learning\\Reinforcement Learning-999997.onnx",
+                "reward": null,
+                "creation_time": 1650659392.6436164,
+                "auxillary_file_paths": [
+                    "results\\RLv1\\Reinforcement Learning\\Reinforcement Learning-999997.pt"
+                ]
+            },
+            {
+                "steps": 1235699,
+                "file_path": "results\\RLv1\\Reinforcement Learning\\Reinforcement Learning-1235699.onnx",
+                "reward": 0.02772487920083222,
+                "creation_time": 1650660544.7014897,
+                "auxillary_file_paths": [
+                    "results\\RLv1\\Reinforcement Learning\\Reinforcement Learning-1235699.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1235699,
+            "file_path": "results\\RLv1\\Reinforcement Learning.onnx",
+            "reward": 0.02772487920083222,
+            "creation_time": 1650660544.7014897,
+            "auxillary_file_paths": [
+                "results\\RLv1\\Reinforcement Learning\\Reinforcement Learning-1235699.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

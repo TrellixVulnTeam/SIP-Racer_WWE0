@@ -1,0 +1,16 @@
+Enter venv:
+	venv\Scripts\activate
+	
+Launch Tensorboard:
+	tensorboard --logdir results --port 6006
+
+	
+Learning commands:
+	v1 learning:
+		mlagents-learn MLConfigs\v1.yaml --run-id=
+	
+	
+Test logs:
+	v1: Total steps trained: 400,000
+	v2: Total steps trained: 1,600,000
+	v3: Total steps trained: 3,200,000

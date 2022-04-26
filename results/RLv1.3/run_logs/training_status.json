@@ -1,0 +1,65 @@
+{
+    "Reinforcement Learning": {
+        "checkpoints": [
+            {
+                "steps": 499997,
+                "file_path": "results\\RLv1.3\\Reinforcement Learning\\Reinforcement Learning-499997.onnx",
+                "reward": 0.02260134364956515,
+                "creation_time": 1650671821.415338,
+                "auxillary_file_paths": [
+                    "results\\RLv1.3\\Reinforcement Learning\\Reinforcement Learning-499997.pt"
+                ]
+            },
+            {
+                "steps": 999998,
+                "file_path": "results\\RLv1.3\\Reinforcement Learning\\Reinforcement Learning-999998.onnx",
+                "reward": 0.013117213574400606,
+                "creation_time": 1650674710.734263,
+                "auxillary_file_paths": [
+                    "results\\RLv1.3\\Reinforcement Learning\\Reinforcement Learning-999998.pt"
+                ]
+            },
+            {
+                "steps": 1499999,
+                "file_path": "results\\RLv1.3\\Reinforcement Learning\\Reinforcement Learning-1499999.onnx",
+                "reward": 0.03579109560049248,
+                "creation_time": 1650677567.1061363,
+                "auxillary_file_paths": [
+                    "results\\RLv1.3\\Reinforcement Learning\\Reinforcement Learning-1499999.pt"
+                ]
+            },
+            {
+                "steps": 1999998,
+                "file_path": "results\\RLv1.3\\Reinforcement Learning\\Reinforcement Learning-1999998.onnx",
+                "reward": 0.037999252922377276,
+                "creation_time": 1650680417.0241745,
+                "auxillary_file_paths": [
+                    "results\\RLv1.3\\Reinforcement Learning\\Reinforcement Learning-1999998.pt"
+                ]
+            },
+            {
+                "steps": 2000004,
+                "file_path": "results\\RLv1.3\\Reinforcement Learning\\Reinforcement Learning-2000004.onnx",
+                "reward": 0.037999252922377276,
+                "creation_time": 1650680417.5301166,
+                "auxillary_file_paths": [
+                    "results\\RLv1.3\\Reinforcement Learning\\Reinforcement Learning-2000004.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2000004,
+            "file_path": "results\\RLv1.3\\Reinforcement Learning.onnx",
+            "reward": 0.037999252922377276,
+            "creation_time": 1650680417.5301166,
+            "auxillary_file_paths": [
+                "results\\RLv1.3\\Reinforcement Learning\\Reinforcement Learning-2000004.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

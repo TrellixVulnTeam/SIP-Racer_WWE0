@@ -1,0 +1,38 @@
+{
+    "Reinforcement Learning": {
+        "checkpoints": [
+            {
+                "steps": 499999,
+                "file_path": "results\\RLv1.2\\Reinforcement Learning\\Reinforcement Learning-499999.onnx",
+                "reward": -0.0037165817426284774,
+                "creation_time": 1650664527.026938,
+                "auxillary_file_paths": [
+                    "results\\RLv1.2\\Reinforcement Learning\\Reinforcement Learning-499999.pt"
+                ]
+            },
+            {
+                "steps": 976264,
+                "file_path": "results\\RLv1.2\\Reinforcement Learning\\Reinforcement Learning-976264.onnx",
+                "reward": -0.00405182349412051,
+                "creation_time": 1650666608.5860603,
+                "auxillary_file_paths": [
+                    "results\\RLv1.2\\Reinforcement Learning\\Reinforcement Learning-976264.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 976264,
+            "file_path": "results\\RLv1.2\\Reinforcement Learning.onnx",
+            "reward": -0.00405182349412051,
+            "creation_time": 1650666608.5860603,
+            "auxillary_file_paths": [
+                "results\\RLv1.2\\Reinforcement Learning\\Reinforcement Learning-976264.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
